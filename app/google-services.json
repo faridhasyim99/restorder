@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700873520048",
+    "firebase_url": "https://restrorder-c28c0.firebaseio.com",
+    "project_id": "restrorder-c28c0",
+    "storage_bucket": "restrorder-c28c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700873520048:android:d084423a465a65c8",
+        "android_client_info": {
+          "package_name": "com.bytotech.Restorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700873520048-gtdctimmag3trv41lan6b2b64slifcun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bytotech.Restorder",
+            "certificate_hash": "657a7212fbfd85d87cd572e1d88daeb3f48aa0f0"
+          }
+        },
+        {
+          "client_id": "700873520048-ospp6r1ba1ub6ulq4cvhukai7n2823k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBek-LuSr6N0KT_NABRqkcbC7ci89Qk2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700873520048-ospp6r1ba1ub6ulq4cvhukai7n2823k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

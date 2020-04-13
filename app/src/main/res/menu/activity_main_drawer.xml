@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:checked="true"
+            android:icon="@drawable/selector_menu"
+            android:title="@string/menu" />
+
+        <item
+            android:id="@+id/nav_basket"
+            android:icon="@drawable/selector_basket"
+            android:title="@string/basket" />
+
+        <item
+            android:id="@+id/nav_promo"
+            android:icon="@drawable/selector_promo"
+            android:title="@string/promo" />
+
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/selector_order"
+            android:title="@string/order" />
+
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/selector_search"
+            android:title="@string/search" />
+
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@drawable/selector_rate_us"
+            android:title="@string/rate_us" />
+
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/selector_about_us"
+            android:title="@string/about_us" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/selector_share"
+            android:title="@string/share" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/selector_logout"
+            android:title="@string/logout" />
+    </group>
+
+
+</menu>

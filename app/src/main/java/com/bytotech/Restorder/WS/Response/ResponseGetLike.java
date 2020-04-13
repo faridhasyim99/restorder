@@ -1,0 +1,13 @@
+package com.bytotech.Restorder.WS.Response;
+
+/**
+ * @author Pradip Bhuva
+ * Bytotech Solutions
+ * +91 8866036909
+ */
+public class ResponseGetLike {
+	public String message;
+	public int code;
+	public int getlike_list_count;
+	public boolean isLiked;
+}

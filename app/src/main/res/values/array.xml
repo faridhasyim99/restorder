@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="profile_pic_upload_option">
+        <item>Gallery</item>
+        <item>Camera</item>
+    </string-array>
+</resources>

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Restorder</string>
+
+    <string name="facebook_app_id">286461951974682</string>
+    <string name="google_id">286461951974682</string>
+    <string name="razor_pay_id">rzp_test_a1V4EZ7jdBViOi</string>
+    <string name="banner_id">ca-app-pub-6485471419829599/4777035418</string>
+    <string name="interstitial_id">ca-app-pub-6485471419829599/6660962724</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="msg_no_internet">No internet connection! Please try again.</string>
+    <string name="msg_something_went_wrong">Something went wrong, Please try again.</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="name">Name</string>
+    <string name="mobileNo">Mobile No</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu">Menu</string>
+    <string name="basket">Basket</string>
+    <string name="promo">Promo</string>
+    <string name="order">Order</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about_us">About Us</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="total">Total</string>
+    <string name="currency">₹</string>
+    <string name="isRTL">True</string>
+
+    <string name="profile_pic_upload_title">Choose Image From</string>
+    <string name="profile_pic_open_gallary_title">Choose a Picture from</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="start">Start</string>
+    <string name="comments">Comments</string>
+    <string name="checkout">Checkout</string>
+    <string name="keep_shopping">Keep Shopping</string>
+    <string name="remove">Remove</string>
+    <string name="apply">Apply</string>
+    <string name="order_now">Order Now</string>
+    <string name="your_order">Your order</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Tax</string>
+    <string name="enter_your_promo_code">Enter your promo code</string>
+    <string name="promo_code">Promo code</string>
+    <string name="terms_amp_conditions"><![CDATA[* Terms & Conditions]]></string>
+    <string name="ok">Ok</string>
+    <string name="discount">Discount</string>
+    <string name="search">Search</string>
+    <string name="address">Address</string>
+    <string name="address_line_1">Address line 1</string>
+    <string name="address_line_2">Address line 2</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="pin_code">Pin code</string>
+    <string name="msg_no_address">Address not found. please enter address first.</string>
+    <string name="msg_no_contact">Phone no. not found. please enter phone no. first.</string>
+    <string name="select_payment_mode">Select payment mode</string>
+    <string name="cod">Cash on delivery</string>
+    <string name="pay_online">Pay online</string>
+</resources>
